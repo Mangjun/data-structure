@@ -24,7 +24,7 @@
 ### Phase 1: 선형 자료구조 (Linear Data Structures)
 가장 기본이 되는 연결 리스트를 완벽하게 제어하고, 이를 기반으로 스택과 큐를 확장합니다.
 - [x] **`01_linked_list/`**
-- [ ] **`02_stack/`**
+- [x] **`02_stack/`**
 - [ ] **`03_queue/`**
 
 ### Phase 2: 비선형 자료구조 (Non-linear Data Structures)
